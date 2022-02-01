@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="preconnect" href="https://i1.silvergames.com/">
+        <link rel="preload" href="https://i1.silvergames.com/css/sg.ttf" as="font" type="font/ttf" crossorigin>
+        <script src="/js/adsense_callback.js"></script>
+        <script defer src="/js/consent.js.php?l=en"></script>
+        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9298242687620115" crossorigin="anonymous"></script>         
+           
+        <link rel="preload" as="image" href="https://i1.silvergames.com/game/back.jpg"><link rel="preload" as="image" href="https://i1.silvergames.com/j/b/ping-pong.jpg">
+        <script defer src="/js/16/main.min.js"></script>
+        <script>window.lazyLoadOptions = {elements_selector: ".lazy"}</script>
+        <script defer src="/js/lazyload.js"></script>
+        <script defer src="/js/user.js.php?g=8477"></script><script defer src="/js/36/game.min.js"></script>
+        <style>.header{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:flex-start;align-content:flex-start;align-items:stretch;width:100%;z-index:3;background-color:rgba(42,42,42,1);height:3em;color:#fff;position:fixed}.header-spacer{height:48px}.nav_ico{flex:0 0 auto;cursor:pointer;margin:0 .188em;order:1;padding:.5em 0 0 .2em;align-self:flex-start;min-width:2em;min-height:2em}.logo{order:2;flex:0 0 auto;align-self:flex-start;min-width:230px;padding:.1em 0 0 .2em;text-transform:uppercase;font-size:1.8em}.logo a{color:#fff}.logo a:hover{color:#e50914}.menu{order:5;flex:1 0 auto;align-self:auto;flex-direction:column;align-items:stretch;text-transform:uppercase;font-size:1.1em;width:100%;min-width:400px;display:none;background-color:rgba(42,42,42,1)}.menu div{padding:.4em .5em .4em .5em;white-space:nowrap}.menu div:hover,.menu a:hover{background-color:#b81921}.menu .active{background-color:#b81921}.dots{order:4;flex:1 1 auto;align-self:auto;text-align:left}.search{order:5;flex:2 1 auto;background-color:rgba(42,42,42,1);padding:.2em .4em 0 .4em;display:none}.search-field{display:flex;flex:1 0 auto;align-self:auto;flex-direction:row;background-color:#484848;border-radius:.25em;width:100%;height:1.8em;min-width:180px;margin:.313em .75em .313em 0}.lupe{display:flex;order:2;flex:0 0 auto}.lupesvg{width:20px;height:20px;order:2;margin:4px 4px 0 0;cursor:pointer}.lupesvg path{stroke:#fff;stroke-width:1;fill:#fff}.search-field input{font-size:1em;background-color:transparent;flex:1 1 auto;order:1;color:#c0c0c0;border:0;width:100%;height:100%;padding-left:5px}.search-field img{width:1.25em;height:1.25em}.search-field:hover,.search-field input:hover{background-color:#b81921;color:#fff}.bar1,.bar2,.bar3{transition:.6s}.nav_ico div{width:1.6em;height:.25em;margin:.25em 0;background-color:#fff;border-radius:2px}.change .bar1{transform:rotate(-45deg) translate(-8px,4px)}.change .bar2{opacity:0}.change .bar3{transform:rotate(45deg) translate(-8px,-3px)}@media all and (min-width:530px){.search{display:block}.dots{flex:10 1 auto}}@media all and (min-width:1200px){.header{flex-wrap:nowrap}.nav_ico{display:none}.menu{order:3;display:flex;flex:1 1 auto;flex-direction:row}.menu div{padding:.6em .5em .6em .5em}.logo{min-width:200px;padding-right:.6em}.menu_hide{display:none}}@font-face{font-family:Dosis;src:url('https://i1.silvergames.com/css/sg.ttf');font-weight:bold;font-display:swap}*{margin:0;padding:0;border:0;box-sizing:content-box}a{text-decoration:none;color:#fff}h1,h2,h3{font-family:'Dosis',sans-serif;text-transform:uppercase;color:#fff}h1,h2{margin:.4em 0 .2em .3em;font-size:1.4em}h2 a:hover{color:#e50914}html,body{padding:0;height:100%;background-color:#2a2a2a;font-family:'Dosis',sans-serif;color:#fff}input:focus{outline-width:0}p{margin-bottom:1em}.slider{max-height:400px;padding-top:2.4em}.banner{color:#404040;min-height:calc(100vw * 400 / 1500)}.footer{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:1em;color:#c0c0c0;text-align:center}.footer a{color:#c0c0c0}.footer a:hover{color:#fff;text-decoration:underline}.tag{padding:.25em;list-style-type:none;text-align:center}.tag li{display:inline-block;margin:2px 4px}.tag a{font-size:1em;color:#fff;background-color:#505050;padding:.4em .5em;text-transform:uppercase;line-height:2.25em;border-radius:.25em}.tag a:hover{background-color:#b81921}.greya{background-color:#404040}.page{max-width:900px;margin:auto}.spammy{display:none}.faq{display:flex;flex-direction:row;flex-wrap:wrap}.faq div{min-width:300px;margin:4px 0 10px 20px;flex:0 1 360px}.faq h3{font-size:14px;font-weight:bold}.ol-list-of-games{margin-left:0}.ol-list-of-games li{margin:5px 0 0 0}.ol-list-of-games a:hover{text-decoration:underline}.rmb{padding:3px 5px 3px 5px;color:#fff!important;background-color:#606060!important;user-select:none;border:0;cursor:pointer;font-size:1.2em}.rmb:hover{background-color:#808080!important}.rmtxt{display:none}@media all and (min-width:1116px){.rmb{display:none}.rmtxt{display:block}}@media all and (max-width:1500px){.slider{width:100%}.slider img{width:100%}}.svg-icon{width:2em;height:2em}.svg-icon path,.svg-icon polygon,.svg-icon rect{fill:#fff}.svg-icon circle{stroke:#fff;stroke-width:1}.category-teaser{padding:0;height:180px;overflow:hidden;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:flex-start;align-items:flex-start;width:100%}.category-link{order:1;flex:0 0 auto;align-self:flex-start;display:none}.teaser-image{order:1;flex:0 0 auto;align-self:flex-start;display:none}.scrollable-div{order:2;flex:1 1 auto;white-space:nowrap;overflow-x:hidden;overflow-y:hidden;-webkit-overflow-scrolling:touch;scroll-behavior:smooth}.scroll{height:180px;order:3;flex:0 0 auto;align-self:flex-start;cursor:pointer;line-height:180px;font-size:2em;opacity:.7;user-select:none;width:30px;color:#fff;padding-left:10px;position:absolute;right:0;background-color:#202020}.scroll:hover{opacity:.9;color:#fff;background-color:#404040}.game-teaser{width:100px;height:150px;padding:4px;margin:8px 0 0 8px;border-radius:6px 6px 0 0;display:inline-block;vertical-align:top}.game-teaser img{width:100%;height:100%;border-radius:3px 3px 0 0;transition:transform .2s}.game-teaser img:hover{transform:scale(1.05)}.game-teaser-txt{font-family:'Dosis',sans-serif;font-size:1em;text-align:center;height:100px;overflow:hidden;white-space:normal}.desktop-games-list,.games-list,#endless-games-list{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:flex-start}.desk{filter:grayscale(100%)}.flash{filter:grayscale(50%)}.game-teaser-flex{flex:0 0 auto;width:calc(33.3% - 18px);height:50vw;padding:4px;border-radius:4px 4px 0 0;background-color:#404040;margin:6px 5px}.game-teaser-flex img{width:100%;border-radius:3px 3px 0 0;transition:transform .2s}.game-teaser-flex img:hover{transform:scale(1.06)}.game-teaser-flex .txt{font-family:'Dosis',sans-serif;font-size:1em;text-align:center;overflow:hidden;white-space:normal}.float-end{clear:both}.category-description{padding:.5em;font-family:Verdana,Arial,Helvetica,sans-serif;color:#f0f0f0}.pager{text-align:center;font-family:Verdana,Arial,Helvetica,sans-serif}.pager a{color:#fff;font-size:1.2em;padding:1px 4px 1px 4px}.pager a:hover{background-color:#b81921}.pager .active{background-color:#b81921}@media all and (min-width:480px){.game-teaser-flex{width:calc(25% - 18px);height:35vw}}@media all and (min-width:641px){.game-teaser-flex{width:120px;height:200px}.teaser-image{height:180px;width:277px;display:block}.category-link{height:180px;width:277px;display:block}}@media all and (min-width:1116px){.category-description{font-size:14px}.category-teaser{height:260px}.category-link,.teaser-image{height:260px;width:400px}.game-teaser{width:140px;height:224px;margin:12px 0 0 14px;border-radius:6px 6px 0 0}.scroll{line-height:240px;width:40px;height:260px}}h1{font-size:1.8em}#row_1{display:flex;flex-direction:row;background-color:#404040}#row_1 .left,.right{flex:1 1 auto}#row_1 .middle{display:flex;flex:0 1 1100px;flex-direction:row}#game_box{display:flex;flex-direction:column;background-color:#505050;background-size:cover;text-align:center}#game_frame{height:100%;width:100%}#game_tools{text-align:left;padding:0 0 6px 8px;display:flex;flex-direction:row;visibility:hidden;height:28px;padding-top:6px}#div_iframe,#iframe{width:100%;height:100%}.ad-300px{max-width:180px;height:600px;margin-top:7px;text-align:left}.spacer_with_thumbs{display:flex;flex-direction:column;width:120px;margin:0 10px 0 10px;padding:4px 8px 0 0}.spacer_with_thumbs img{max-width:100%}.spacer_with_thumbs div{width:120px;height:160px;background-color:#505050;padding:4px;margin-bottom:10px;border-radius:4px 4px 0 0;text-align:center;color:#fff;font-size:.9em}#game_start_thumb{height:300px;background-size:cover;background-image:url(https://i1.silvergames.com/game/back.jpg)}#game_start_button{padding-top:20px}.game_thumb{margin:70px auto 0 auto;border-radius:10px;box-shadow:5px 5px 10px #606060}.thumbs_big{margin:4px 0 10px 0}.thumbs{flex:1 1 auto;display:flex;flex-direction:row}.thumb,.thumb_big{cursor:pointer;fill:#a0a0a0;vertical-align:text-top;margin:0 4px 0 4px}.thumb{width:26px;height:26px}.thumb_big{width:30px;height:30px}.rot180{transform:rotate(180deg)}.fullscreen{flex:0 0 30px;padding-right:8px;text-align:right}.fullscreen img{cursor:pointer;margin-top:1px}.votes-txt{margin-top:5px}.votes-txt-small{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:16px;color:#b0b0b0;margin-top:4px}.intro-txt{order:5;flex:1 1 auto;margin:.4em 1em 0 1em;min-width:250px;color:#e0e0e0;font-size:.8em;font-family:Verdana,Arial,Helvetica,sans-serif;margin-bottom:10px}.intro-txt p{margin:0 1em 1em 1em}.more_txt{cursor:pointer;text-decoration:underline}.intro-viz img{display:block}#game-layer{background-color:rgba(0,0,0,0.90);display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-content:stretch;align-items:stretch;height:100%;width:100%;display:none}.gleft{order:1;flex:1 1 auto;align-self:auto;justify-content:center;align-self:center}.gmiddle{display:flex;flex-direction:column;order:2;flex:0 1 auto;justify-content:center}.gright{order:3;flex:1 1 auto;align-self:auto;justify-content:center;align-self:center}.gbottom{display:flex;justify-content:center}#iframe{background-color:#000}#iframe{-ms-touch-action:none;touch-action:none;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.close-icon{width:1.8em;height:1.8em}.close-icon path{fill:#fff}#close_button{position:fixed;z-index:4;right:0;top:0;text-align:right;height:28px;display:none}#close_button_txt{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:14px;line-height:28px;vertical-align:top;cursor:pointer;pointer-events:auto;z-index:6;user-select:none}#close-x{cursor:pointer;pointer-events:auto;background-color:rgba(0,0,0,0.3)}.votes-txt{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:.875em;padding:.20em 0 .20em 0;color:#b0b0b0}.screenshots{text-align:center}.stars{height:40px;width:150px;margin-bottom:0}.play_game{cursor:pointer;display:inline-block;background-color:#9147ff;border:0;color:#fff;text-align:center;font-size:1.6em;padding:8px 4px;width:280px;margin:0;border-radius:4px;margin-top:30px}.play_game span{position:relative;transition:.5s}.play_game span:after{content:'\00bb';position:absolute;opacity:0;top:0;right:-20px;transition:.5s}.play_game:hover{background-color:#ff65c5;color:#fff}.play_game:hover span{padding-right:25px}.play_game:hover span:after{opacity:1;right:0}#ad-below-game{min-height:90px}.ad-below-game{text-align:center;margin-top:16px;min-height:90px;max-width:100%}.ad-300px{display:none}.right_spacer,.left_spacer{display:none}.shot{cursor:zoom-in;transition:.3s;max-width:44%;height:100%;margin:0 12px 0 0}.shot:hover{opacity:.7}.modal{cursor:zoom-out;display:none;position:fixed;z-index:1;padding-top:100px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,0.9)}.modal-content{margin:auto;display:block}#caption{margin:auto;display:none;text-align:center;color:#e0e0e0;padding:6px 0;height:150px;font-size:1.2em}.modal-content{animation-name:fadeIn;animation-duration:.8s;max-width:90%;max-height:80%}@keyframes fadeIn{0%{opacity:.5}100%{opacity:1}}.close{position:absolute;top:46px;right:16px;color:#f1f1f1;font-size:30px;transition:.3s}.close:hover,.close:focus{color:#bbb;text-decoration:none;cursor:pointer}@media only screen and (max-width:700px){.modal-content{width:100%}}</style>
+        
+        <style>.color-1{background-color:#404040}.color-2{background-color:#505050}#game_box{width:580px;height:580px}}.category-description-txt{max-width:680px;}@media all and (max-width:580px){#game_box{width:100%}}@media all and (min-width:580px){#game_frame,#game_box{width:580px;height:620px}}@media all and (min-width:680px){.right_spacer{display:block}}@media all and (min-width:910px){.ad-300px{max-width:180px;display:block}}@media all and (min-width:1030px){.ad-300px{width:300px;max-width:300px;display:block}}@media all and (min-width:1180px){.left_spacer{display:block}}</style>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+        <link rel="canonical" href="https://www.silvergames.com/en/ping-pong"><link rel="alternate" href="https://www.silvergames.com/de/ping-pong" hreflang="de"><link rel="alternate" href="https://www.silvergames.com/en/ping-pong" hreflang="en"><link rel="alternate" href="https://www.silvergames.com/es/ping-pong" hreflang="es"><link rel="alternate" href="https://www.silvergames.com/fr/ping-pong" hreflang="fr"><link rel="alternate" href="https://www.silvergames.com/ru/ping-pong" hreflang="ru"><meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"><meta property="og:image" content="https://i1.silvergames.com/j/b/ping-pong.jpg"><meta property="og:type" content="game"><meta property="og:title" content="Ping Pong"><meta name="description" content="Ping Pong is a cool table tennis game in which you control the paddle to play challenging matches against the CPU. This cool free online game on Silvergames.com offers you the chance to fully control the paddle to hit the ball with the right power, direction and swing. Make the most fascinating hits to trick your opponent and win every match.
+Read more ..Ping pong is just awesome, isn’t it? It’s like they took a huge tennis court and set it on top of a table. Today, thanks to the world of free online games, you won’t even need the table. Use your mouse to simulate the movement of the paddle and hit the ball with the exact amount of strength you need. Enjoy this cool Ping Pong game!">
+        <title>Ping Pong - Play Ping Pong Online on SilverGames</title>
+        
+        
+    </head>
+    <body>
+        <div class="header">
+            <div class="nav_ico">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+            <div class="logo"><a href="/en/">silvergames.com</a></div>
+            <div class="dots"></div>
+            <div class="search">
+                <form id="search" action="/en/s" method="get">
+                    <div class="search-field">
+                        <input type="text" id="q" name="q" value="Search games..." data-txt="Search games...">
+                        <div class="lupe" id="lupe">
+                            <svg class="lupesvg" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M19.129,18.164l-4.518-4.52c1.152-1.373,1.852-3.143,1.852-5.077c0-4.361-3.535-7.896-7.896-7.896 c-4.361,0-7.896,3.535-7.896,7.896s3.535,7.896,7.896,7.896c1.934,0,3.705-0.698,5.078-1.853l4.52,4.519 c0.266,0.268,0.699,0.268,0.965,0C19.396,18.863,19.396,18.431,19.129,18.164z M8.567,15.028c-3.568,0-6.461-2.893-6.461-6.461 s2.893-6.461,6.461-6.461c3.568,0,6.46,2.893,6.46,6.461S12.135,15.028,8.567,15.028z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="menu">
+                <a href="/en/"><div>Home</div></a><a href="/en/new"><div>New<span class="menu_hide"> Games</span></div></a><a href="/en/popular"><div>Popular<span class="menu_hide"> Games</span></div></a><a href="/en/t/mmo"><div>MMO<span class="menu_hide"> Games</span></div></a><a href="/en/action"><div>Action<span class="menu_hide"> Games</span></div></a><a href="/en/racing"><div>Racing<span class="menu_hide"> Games</span></div></a><a href="/en/shooting"><div>Shooting<span class="menu_hide"> Games</span></div></a><a href="/en/sports"><div>Sports<span class="menu_hide"> Games</span></div></a><a href="/en/strategy"><div>Strategy<span class="menu_hide"> Games</span></div></a><a href="/en/puzzle"><div>Puzzle<span class="menu_hide"> Games</span></div></a><a href="/en/iogames"><div>.io<span class="menu_hide"> Games</span></div></a><a href="/en/t/2-player"><div>2 Player<span class="menu_hide"> Games</span></div></a><a href="/en/my"><div>MY<span class="menu_hide"> Games </span>&#8634;</div></a>
+            </div>
+
+        </div>
+        <div class="header-spacer"></div>
+
+        <div id="row_1">
+    <div class="left"></div>
+    <div class="middle" >
+        <div class="spacer_with_thumbs left_spacer">
+            <div><a href="/en/stick-figure-badminton"><img alt="Stick Figure Badminton" src="https://i1.silvergames.com/j/b/s/stick-figure-badminton.jpg"></a><p>Stick Figure Badminton</p></div><div><a href="/en/stick-figure-badminton-2"><img alt="Stick Figure Badminton 2" src="https://i1.silvergames.com/j/b/s/stick-figure-badminton-2.jpg"></a><p>Stick Figure Badminton 2</p></div><div><a href="/en/ping-pong-chaos"><img alt="Ping Pong Chaos" src="https://i1.silvergames.com/j/b/s/ping-pong-chaos.jpg"></a><p>Ping Pong Chaos</p></div>
+        </div>
+        <div id="game_box">
+            <div id="game_frame">
+                <div id="game_start_thumb"><img class="game_thumb" width="200" height="200" src="https://i1.silvergames.com/j/b/ping-pong.jpg" alt="Ping Pong"></div>
+                <div id="game_start_button">
+                    <h1>Ping Pong</h1>
+                    <div>
+                        <svg class="stars">
+                            <use xlink:href="#stars-4-0-star"></use>
+                            <title>Rating: 3.8</title>
+                        </svg>
+                    </div>
+                   
+                    <div class="thumbs_big" data-voted="">
+                        <svg class="thumb_big" id="t-up-big" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#thumbs-up"></use></svg>
+                        <svg class="thumb_big rot180" id="t-down-big" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#thumbs-up"></use></svg>
+                    </div>
+                    <div class="votes-txt">Rating: <span class="rating">3.8</span> (<span class="rating-count">20</span> Votes)</div>
+                    <button class="play_game" id="play-game"><span>PLAY NOW</span></button>
+                </div>
+            </div>
+            <div id="game_tools">
+                <div class="thumbs" data-voted="">
+                    <div><svg class="thumb" id="t-up" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#thumbs-up"></use></svg></div>
+                    <div><svg class="thumb rot180" id="t-down" xmlns="http://www.w3.org/2000/svg"><use xlink:href="#thumbs-up"></use></svg></div>
+                    <div class="votes-txt-small">&nbsp;&nbsp;Rating: <span class="rating">3.8</span> (<span class="rating-count">20</span> Votes)</div>
+                </div>
+                <div class="fullscreen" id="icon_fullscreen"><img src="/thumbnail/game/fullscreen.png" width="24" height="24" alt="[]"></div>
+            </div>
+        </div>
+        <div class="spacer_with_thumbs right_spacer">
+            <div><a href="/en/table-tennis"><img alt="Table Tennis" src="https://i1.silvergames.com/j/b/s/table-tennis.jpg"></a><p>Table Tennis</p></div><div><a href="/en/ping-pong-3d"><img alt="Ping Pong 3D" src="https://i1.silvergames.com/j/b/s/ping-pong-3d.jpg"></a><p>Ping Pong 3D</p></div><div><a href="/en/table-tennis-world-tour"><img alt="Table Tennis World Tour" src="https://i1.silvergames.com/j/b/s/table-tennis-world-tour.jpg"></a><p>Table Tennis World Tour</p></div>
+        </div>
+        <div class="ad-300px"><ins class="adsbygoogle"
+     style="display:inline-block;min-width:160px;max-width:300px;width:100%;height:600px;"
+     data-ad-client="ca-pub-9298242687620115"
+     data-ad-slot="3460475159"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+    </div>
+    <div class="right"></div>
+</div>
+
+
+
+<h2>Ping Pong</h2>
+<div class="color-1" style="text-align:left;display:flex;flex-direction:row;  " >
+
+    <div class="category-description greya" style="flex:1 1 1100px;padding:10px 0 5px 0;">
+        <div style="padding:10px 0 5px 10px;text-align:left ">
+        <p>Ping Pong is a cool table tennis game in which you control the paddle to play challenging matches against the CPU. This cool free online game on Silvergames.com offers you the chance to fully control the paddle to hit the ball with the right power, direction and swing. Make the most fascinating hits to trick your opponent and win every match.
+</p><button class="rmb" onClick="readMore()">Read more ..</button><span class="rmtxt"><p>Ping pong is just awesome, isn’t it? It’s like they took a huge tennis court and set it on top of a table. Today, thanks to the world of free online games, you won’t even need the table. Use your mouse to simulate the movement of the paddle and hit the ball with the exact amount of strength you need. Enjoy this cool Ping Pong game!
+</p><p>Controls: Mouse</p></span>
+        </div>
+    </div>
+    <div class="right" style="flex:1 1 auto"></div>
+</div>
+
+<div id="ad-below-game" class="ad-below-game">
+    <div style="text-align:center;padding:14px 0 2px 0">
+    <ins class="adsbygoogle"
+         style="display:inline-block;min-width:400px;max-width:1024px;width:100%;height:100px"
+         data-ad-client="ca-pub-9298242687620115"
+         data-ad-slot="6013341093"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+</div>
+
+<h2>Gameplay</h2>
+<div class="color-1">
+    <div class="screenshots">
+        <div class="grid-of-images"><a id="wt"><img src="https://i1.silvergames.com/game/video-play.png" alt="play button" width="120" height="120" style="cursor:pointer;background-size:cover;margin-right:12px;background-image:url(https://i1.silvergames.com/j/b/ping-pong.jpg)"></a><a href="https://i1.silvergames.com/screenshots/ping-pong/1_menu.jpg" title="Ping Pong: Menu"><img class="shot" src="https://i1.silvergames.com/screenshots/ping-pong/t/1_menu.jpg" width="101" height="120" loading="lazy" alt="Ping Pong: Menu" data-surl="https://i1.silvergames.com/screenshots/ping-pong/1_menu.jpg"></a><a href="https://i1.silvergames.com/screenshots/ping-pong/2_ping-pong-playing.jpg" title="Ping Pong: Ping Pong Playing"><img class="shot" src="https://i1.silvergames.com/screenshots/ping-pong/t/2_ping-pong-playing.jpg" width="101" height="120" loading="lazy" alt="Ping Pong: Ping Pong Playing" data-surl="https://i1.silvergames.com/screenshots/ping-pong/2_ping-pong-playing.jpg"></a><a href="https://i1.silvergames.com/screenshots/ping-pong/3_gameplay.jpg" title="Ping Pong: Gameplay"><img class="shot" src="https://i1.silvergames.com/screenshots/ping-pong/t/3_gameplay.jpg" width="100" height="120" loading="lazy" alt="Ping Pong: Gameplay" data-surl="https://i1.silvergames.com/screenshots/ping-pong/3_gameplay.jpg"></a><a href="https://i1.silvergames.com/screenshots/ping-pong/4_ping-pong-bat.jpg" title="Ping Pong: Ping Pong Bat"><img class="shot" src="https://i1.silvergames.com/screenshots/ping-pong/t/4_ping-pong-bat.jpg" width="100" height="120" loading="lazy" alt="Ping Pong: Ping Pong Bat" data-surl="https://i1.silvergames.com/screenshots/ping-pong/4_ping-pong-bat.jpg"></a></div>
+    </div>
+</div>
+
+<div id="modal" class="modal">
+    <span class="close">&times;</span>
+    <div id="wt-iframe" data-src="https://www.silvergames.com/div/veedi.php?gameid=8477&gamename=Ping+Pong" style="text-align:center"></div>
+    <img class="modal-content" id="img01" alt="-">
+    <div id="caption"></div>
+</div>
+
+<h2>Games like Ping Pong</h2>
+<div class="category-teaser color-1">
+    <div id="sd1" class="scrollable-div">
+        <div class="game-teaser color-2 i0" ><div><a href="/en/table-tennis-world-tour"><img data-src="https://i1.silvergames.com/j/b/s/table-tennis-world-tour.jpg" alt="table tennis world tour" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/table-tennis-world-tour">Table Tennis World Tour</a></div></div><div class="game-teaser color-2 i1" ><div><a href="/en/table-tennis"><img data-src="https://i1.silvergames.com/j/b/s/table-tennis.jpg" alt="table tennis" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/table-tennis">Table Tennis</a></div></div><div class="game-teaser color-2 i2" ><div><a href="/en/sports-minibattles"><img data-src="https://i1.silvergames.com/j/b/s/sports-minibattles.jpg" alt="sports minibattles" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/sports-minibattles">Sports Minibattles</a></div></div><div class="game-teaser color-2 i3" ><div><a href="/en/ping-pong-3d"><img data-src="https://i1.silvergames.com/j/b/s/ping-pong-3d.jpg" alt="ping pong 3d" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ping-pong-3d">Ping Pong 3D</a></div></div><div class="game-teaser color-2 i4" ><div><a href="/en/tennis-masters"><img data-src="https://i1.silvergames.com/j/b/s/tennis-masters.jpg" alt="tennis masters" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-masters">Tennis Masters</a></div></div><div class="game-teaser color-2 i5" ><div><a href="/en/basket-and-ball"><img data-src="https://i1.silvergames.com/j/b/s/basket-and-ball.jpg" alt="basket and ball" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/basket-and-ball">Basket and Ball</a></div></div><div class="game-teaser color-2 i6" ><div><a href="/en/base-jumping"><img data-src="https://i1.silvergames.com/j/b/s/base-jumping.jpg" alt="base jumping" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/base-jumping">Base Jumping</a></div></div><div class="game-teaser color-2 i7" ><div><a href="/en/world-s-hardest-game-3"><img data-src="https://i1.silvergames.com/j/b/s/world-s-hardest-game-3.jpg" alt="world s hardest game 3" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/world-s-hardest-game-3">World's Hardest Game 3</a></div></div><div class="game-teaser color-2 i8" ><div><a href="/en/atari-pong"><img data-src="https://i1.silvergames.com/j/b/s/atari-pong.jpg" alt="atari pong" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/atari-pong">Atari Pong</a></div></div><div class="game-teaser color-2 i9" ><div><a href="/en/stick-figure-badminton-2"><img data-src="https://i1.silvergames.com/j/b/s/stick-figure-badminton-2.jpg" alt="stick figure badminton 2" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stick-figure-badminton-2">Stick Figure Badminton 2</a></div></div><div class="game-teaser color-2 i10" ><div><a href="/en/tennis-open-2021"><img data-src="https://i1.silvergames.com/j/b/s/tennis-open-2021.jpg" alt="tennis open 2021" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-open-2021">Tennis Open 2021</a></div></div><div class="game-teaser color-2 i11" ><div><a href="/en/ping-pong-chaos"><img data-src="https://i1.silvergames.com/j/b/s/ping-pong-chaos.jpg" alt="ping pong chaos" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ping-pong-chaos">Ping Pong Chaos</a></div></div><div class="game-teaser color-2 i12" ><div><a href="/en/soccer-mover"><img data-src="https://i1.silvergames.com/j/b/s/soccer-mover.jpg" alt="soccer mover" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/soccer-mover">Soccer Mover</a></div></div><div class="game-teaser color-2 i13" ><div><a href="/en/tennis-world-tour"><img data-src="https://i1.silvergames.com/j/b/s/tennis-world-tour.jpg" alt="tennis world tour" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-world-tour">Tennis World Tour</a></div></div><div class="game-teaser color-2 i14" ><div><a href="/en/stick-figure-badminton"><img data-src="https://i1.silvergames.com/j/b/s/stick-figure-badminton.jpg" alt="stick figure badminton" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stick-figure-badminton">Stick Figure Badminton</a></div></div><div class="game-teaser color-2 i15" ><div><a href="/en/ultimate-swish"><img data-src="https://i1.silvergames.com/j/b/s/ultimate-swish.jpg" alt="ultimate swish" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ultimate-swish">Ultimate Swish</a></div></div><div class="game-teaser color-2 i16" ><div><a href="/en/tennis-legends-2016"><img data-src="https://i1.silvergames.com/j/b/s/tennis-legends-2016.jpg" alt="tennis legends 2016" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-legends-2016">Tennis Legends 2016</a></div></div><div class="game-teaser color-2 i17" ><div><a href="/en/stick-figure-badminton-3"><img data-src="https://i1.silvergames.com/j/b/s/stick-figure-badminton-3.jpg" alt="stick figure badminton 3" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stick-figure-badminton-3">Stick Figure Badminton 3</a></div></div><div class="game-teaser color-2 i18" ><div><a href="/en/ragdoll-tennis-2-player"><img data-src="https://i1.silvergames.com/j/b/s/ragdoll-tennis-2-player.jpg" alt="ragdoll tennis 2 player" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ragdoll-tennis-2-player">Ragdoll Tennis 2 Player</a></div></div><div class="game-teaser color-2 i19" ><div><a href="/en/tennis-hero"><img data-src="https://i1.silvergames.com/j/b/s/tennis-hero.jpg" alt="tennis hero" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-hero">Tennis Hero</a></div></div><div style="clear:left"></div>
+    </div>
+    <div class="scroll" data-id="sd1">&#10095;</div>
+</div>
+
+
+
+<h2><a href="/en/t/tennis">Top Tennis Games</a></h2>
+<div class="category-teaser color-1">
+    <div id="sd2" class="scrollable-div">
+        <div class="game-teaser color-2 i0" ><div><a href="/en/ping-pong"><img data-src="https://i1.silvergames.com/j/b/s/ping-pong.jpg" alt="ping pong" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ping-pong">Ping Pong</a></div></div><div class="game-teaser color-2 i1" ><div><a href="/en/table-tennis-world-tour"><img data-src="https://i1.silvergames.com/j/b/s/table-tennis-world-tour.jpg" alt="table tennis world tour" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/table-tennis-world-tour">Table Tennis World Tour</a></div></div><div class="game-teaser color-2 i2" ><div><a href="/en/table-tennis"><img data-src="https://i1.silvergames.com/j/b/s/table-tennis.jpg" alt="table tennis" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/table-tennis">Table Tennis</a></div></div><div class="game-teaser color-2 i3" ><div><a href="/en/sports-minibattles"><img data-src="https://i1.silvergames.com/j/b/s/sports-minibattles.jpg" alt="sports minibattles" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/sports-minibattles">Sports Minibattles</a></div></div><div class="game-teaser color-2 i4" ><div><a href="/en/tennis-masters"><img data-src="https://i1.silvergames.com/j/b/s/tennis-masters.jpg" alt="tennis masters" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-masters">Tennis Masters</a></div></div><div class="game-teaser color-2 i5" ><div><a href="/en/stick-figure-badminton-2"><img data-src="https://i1.silvergames.com/j/b/s/stick-figure-badminton-2.jpg" alt="stick figure badminton 2" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stick-figure-badminton-2">Stick Figure Badminton 2</a></div></div><div class="game-teaser color-2 i6" ><div><a href="/en/tennis-open-2021"><img data-src="https://i1.silvergames.com/j/b/s/tennis-open-2021.jpg" alt="tennis open 2021" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-open-2021">Tennis Open 2021</a></div></div><div class="game-teaser color-2 i7" ><div><a href="/en/ping-pong-chaos"><img data-src="https://i1.silvergames.com/j/b/s/ping-pong-chaos.jpg" alt="ping pong chaos" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ping-pong-chaos">Ping Pong Chaos</a></div></div><div class="game-teaser color-2 i8" ><div><a href="/en/tennis-world-tour"><img data-src="https://i1.silvergames.com/j/b/s/tennis-world-tour.jpg" alt="tennis world tour" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-world-tour">Tennis World Tour</a></div></div><div class="game-teaser color-2 i9" ><div><a href="/en/stick-figure-badminton"><img data-src="https://i1.silvergames.com/j/b/s/stick-figure-badminton.jpg" alt="stick figure badminton" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stick-figure-badminton">Stick Figure Badminton</a></div></div><div class="game-teaser color-2 i10" ><div><a href="/en/tennis-legends-2016"><img data-src="https://i1.silvergames.com/j/b/s/tennis-legends-2016.jpg" alt="tennis legends 2016" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-legends-2016">Tennis Legends 2016</a></div></div><div class="game-teaser color-2 i11" ><div><a href="/en/stick-figure-badminton-3"><img data-src="https://i1.silvergames.com/j/b/s/stick-figure-badminton-3.jpg" alt="stick figure badminton 3" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stick-figure-badminton-3">Stick Figure Badminton 3</a></div></div><div class="game-teaser color-2 i12" ><div><a href="/en/ragdoll-tennis-2-player"><img data-src="https://i1.silvergames.com/j/b/s/ragdoll-tennis-2-player.jpg" alt="ragdoll tennis 2 player" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ragdoll-tennis-2-player">Ragdoll Tennis 2 Player</a></div></div><div class="game-teaser color-2 i13" ><div><a href="/en/tennis-hero"><img data-src="https://i1.silvergames.com/j/b/s/tennis-hero.jpg" alt="tennis hero" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-hero">Tennis Hero</a></div></div><div class="game-teaser color-2 i14" ><div><a href="/en/tennis"><img data-src="https://i1.silvergames.com/j/b/s/tennis.jpg" alt="tennis" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis">Tennis</a></div></div><div class="game-teaser color-2 i15" ><div><a href="/en/stickman-sports-badminton"><img data-src="https://i1.silvergames.com/j/b/s/stickman-sports-badminton.jpg" alt="stickman sports badminton" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/stickman-sports-badminton">Stickman Sports Badminton</a></div></div><div class="game-teaser color-2 i16" ><div><a href="/en/minimissions"><img data-src="https://i1.silvergames.com/j/b/s/minimissions.jpg" alt="minimissions" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/minimissions">MiniMissions</a></div></div><div class="game-teaser color-2 i17 desk" ><div><a href="/en/sports-heads-tennis-open"><img data-src="https://i1.silvergames.com/j/b/s/sports-heads-tennis-open.jpg" alt="sports heads tennis open" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/sports-heads-tennis-open">Sports Heads: Tennis Open</a></div></div><div class="game-teaser color-2 i18 desk" ><div><a href="/en/ragdoll-tennis"><img data-src="https://i1.silvergames.com/j/b/s/ragdoll-tennis.jpg" alt="ragdoll tennis" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ragdoll-tennis">Ragdoll Tennis</a></div></div><div class="game-teaser color-2 i19 desk" ><div><a href="/en/sports-heads-tennis"><img data-src="https://i1.silvergames.com/j/b/s/sports-heads-tennis.jpg" alt="sports heads tennis" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/sports-heads-tennis">Sports Heads: Tennis</a></div></div><div style="clear:left"></div>
+    </div>
+    <div class="scroll" data-id="sd2">&#10095;</div>
+</div>
+
+<h2><a href="/en/sports">New Sports Games</a></h2>
+<div class="category-teaser color-1">
+    <div id="sd3" class="scrollable-div">
+        <div class="game-teaser color-2 i0" ><div><a href="/en/ping-pong"><img data-src="https://i1.silvergames.com/j/b/s/ping-pong.jpg" alt="ping pong" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/ping-pong">Ping Pong</a></div></div><div class="game-teaser color-2 i1" ><div><a href="/en/2-player-imposter-soccer"><img data-src="https://i1.silvergames.com/j/b/s/2-player-imposter-soccer.jpg" alt="2 player imposter soccer" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/2-player-imposter-soccer">2 Player Imposter Soccer</a></div></div><div class="game-teaser color-2 i2" ><div><a href="/en/mini-golf"><img data-src="https://i1.silvergames.com/j/b/s/mini-golf.jpg" alt="mini golf" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/mini-golf">Mini Golf</a></div></div><div class="game-teaser color-2 i3" ><div><a href="/en/tiny-fishing"><img data-src="https://i1.silvergames.com/j/b/s/tiny-fishing.jpg" alt="tiny fishing" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tiny-fishing">Tiny Fishing</a></div></div><div class="game-teaser color-2 i4" ><div><a href="/en/downhill-chill"><img data-src="https://i1.silvergames.com/j/b/s/downhill-chill.jpg" alt="downhill chill" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/downhill-chill">Downhill Chill</a></div></div><div class="game-teaser color-2 i5" ><div><a href="/en/golf-battle"><img data-src="https://i1.silvergames.com/j/b/s/golf-battle.jpg" alt="golf battle" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/golf-battle">Golf Battle</a></div></div><div class="game-teaser color-2 i6" ><div><a href="/en/basket-slam"><img data-src="https://i1.silvergames.com/j/b/s/basket-slam.jpg" alt="basket slam" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/basket-slam">Basket Slam</a></div></div><div class="game-teaser color-2 i7" ><div><a href="/en/extreme-golf"><img data-src="https://i1.silvergames.com/j/b/s/extreme-golf.jpg" alt="extreme golf" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/extreme-golf">Extreme Golf</a></div></div><div class="game-teaser color-2 i8" ><div><a href="/en/drunken-spin-punch"><img data-src="https://i1.silvergames.com/j/b/s/drunken-spin-punch.jpg" alt="drunken spin punch" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/drunken-spin-punch">Drunken Spin Punch</a></div></div><div class="game-teaser color-2 i9" ><div><a href="/en/sports-minibattles"><img data-src="https://i1.silvergames.com/j/b/s/sports-minibattles.jpg" alt="sports minibattles" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/sports-minibattles">Sports Minibattles</a></div></div><div class="game-teaser color-2 i10" ><div><a href="/en/flip-runner"><img data-src="https://i1.silvergames.com/j/b/s/flip-runner.jpg" alt="flip runner" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/flip-runner">Flip Runner</a></div></div><div class="game-teaser color-2 i11" ><div><a href="/en/mini-golf-club"><img data-src="https://i1.silvergames.com/j/b/s/mini-golf-club.jpg" alt="mini golf club" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/mini-golf-club">Mini Golf Club</a></div></div><div class="game-teaser color-2 i12" ><div><a href="/en/basket-random"><img data-src="https://i1.silvergames.com/j/b/s/basket-random.jpg" alt="basket random" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/basket-random">Basket Random</a></div></div><div class="game-teaser color-2 i13" ><div><a href="/en/soccer-random"><img data-src="https://i1.silvergames.com/j/b/s/soccer-random.jpg" alt="soccer random" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/soccer-random">Soccer Random</a></div></div><div class="game-teaser color-2 i14" ><div><a href="/en/bowling-frvr"><img data-src="https://i1.silvergames.com/j/b/s/bowling-frvr.jpg" alt="bowling frvr" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/bowling-frvr">Bowling FRVR</a></div></div><div class="game-teaser color-2 i15" ><div><a href="/en/super-star-soccer"><img data-src="https://i1.silvergames.com/j/b/s/super-star-soccer.jpg" alt="super star soccer" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/super-star-soccer">Super Star Soccer</a></div></div><div class="game-teaser color-2 i16" ><div><a href="/en/tennis-open-2021"><img data-src="https://i1.silvergames.com/j/b/s/tennis-open-2021.jpg" alt="tennis open 2021" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/tennis-open-2021">Tennis Open 2021</a></div></div><div class="game-teaser color-2 i17" ><div><a href="/en/foosball-simulator"><img data-src="https://i1.silvergames.com/j/b/s/foosball-simulator.jpg" alt="foosball simulator" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/foosball-simulator">Foosball Simulator</a></div></div><div class="game-teaser color-2 i18" ><div><a href="/en/rowing-simulator"><img data-src="https://i1.silvergames.com/j/b/s/rowing-simulator.jpg" alt="rowing simulator" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/rowing-simulator">Rowing Simulator</a></div></div><div class="game-teaser color-2 i19" ><div><a href="/en/shadow-fights"><img data-src="https://i1.silvergames.com/j/b/s/shadow-fights.jpg" alt="shadow fights" class="lazy" width="140" height="140"/></a></div><div  class="game-teaser-txt"><a href="/en/shadow-fights">Shadow Fights</a></div></div><div style="clear:left"></div>
+    </div>
+    <div class="scroll" data-id="sd3">&#10095;</div>
+</div>
+
+<div id="game-layer" data-skipplay="" data-preroll="no" data-adprovider="" data-yolla=""  data-device="desktop" data-type="iframe" data-protocol="https" data-id="8477" data-src="https://f3.silvergames.com/marketjs/ping-pong/" data-width="580" data-height="580" data-scrolling="no" data-sandbox="">
+</div>
+
+<div id="close_button">
+    <span id="close_button_txt">Exit Fullscreen</span>
+    <svg id="close-x" class="close-icon" viewBox="0 0 20 20">
+    <path fill="none" d="M15.898,4.045c-0.271-0.272-0.713-0.272-0.986,0l-4.71,4.711L5.493,4.045c-0.272-0.272-0.714-0.272-0.986,0s-0.272,0.714,0,0.986l4.709,4.711l-4.71,4.711c-0.272,0.271-0.272,0.713,0,0.986c0.136,0.136,0.314,0.203,0.492,0.203c0.179,0,0.357-0.067,0.493-0.203l4.711-4.711l4.71,4.711c0.137,0.136,0.314,0.203,0.494,0.203c0.178,0,0.355-0.067,0.492-0.203c0.273-0.273,0.273-0.715,0-0.986l-4.711-4.711l4.711-4.711C16.172,4.759,16.172,4.317,15.898,4.045z"></path>
+    </svg>
+</div>
+
+
+
+<div class="category-description">
+    <ul class="tag"><li><a href="/en/t/tennis">Tennis&nbsp;Games</a></li><li><a href="/en/t/ping-pong">ping&nbsp;pong</a></li><li><a href="/en/t/table-tennis">Table&nbsp;Tennis&nbsp;Games</a></li><li><a href="/en/t/ball">Ball&nbsp;Games</a></li><li><a href="/en/t/paddle">Paddle&nbsp;Games</a></li><li><a href="/en/t/timing">Timing&nbsp;Games</a></li></ul>
+</div>
+<svg style="display: none;" version="1.1">
+    <symbol id="thumbs-up" viewBox="0 0 24 24">
+        <path  d="m1.75 23h2.5c.965 0 1.75-.785 1.75-1.75v-11.5c0-.965-.785-1.75-1.75-1.75h-2.5c-.965 0-1.75.785-1.75 1.75v11.5c0 .965.785 1.75 1.75 1.75z"/><path d="m12.781.75c-1 0-1.5.5-1.5 3 0 2.376-2.301 4.288-3.781 5.273v12.388c1.601.741 4.806 1.839 9.781 1.839h1.6c1.95 0 3.61-1.4 3.94-3.32l1.12-6.5c.42-2.45-1.46-4.68-3.94-4.68h-4.72s.75-1.5.75-4c0-3-2.25-4-3.25-4z"/>
+    </symbol>
+</svg>
+
+<svg id="stars" style="display: none;" version="1.1">
+    <symbol id="stars-full-star" viewBox="0 0 102 18">
+        <path d="M9.5 14.25l-5.584 2.936 1.066-6.218L.465 6.564l6.243-.907L9.5 0l2.792 5.657 6.243.907-4.517 4.404 1.066 6.218" />
+    </symbol>
+
+    <symbol id="stars-half-star" viewBox="0 0 102 18">
+        <path d="M9.5 14.25l-5.584 2.936 1.066-6.218L.465 6.564l6.243-.907L9.5 0" fill="#e9ba26" />
+    </symbol>
+
+    <symbol id="stars-all-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-full-star" />
+        <use xlink:href="#stars-full-star" transform="translate(21)" />
+        <use xlink:href="#stars-full-star" transform="translate(42)" />
+        <use xlink:href="#stars-full-star" transform="translate(63)" />
+        <use xlink:href="#stars-full-star" transform="translate(84)" />
+    </symbol>
+
+    <symbol id="stars-0-0-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-all-star" fill="#9b9b9b" />
+    </symbol>
+
+    <symbol id="stars-0-5-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-0-0-star" />
+        <use xlink:href="#stars-half-star" />
+    </symbol>
+
+    <symbol id="stars-1-0-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-0-0-star" />
+        <use xlink:href="#stars-full-star" fill="#e9ba26" />
+    </symbol>
+
+    <symbol id="stars-1-5-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-1-0-star" />
+        <use xlink:href="#stars-half-star" transform="translate(21)" />
+    </symbol>
+
+    <symbol id="stars-2-0-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-1-0-star" />
+        <use xlink:href="#stars-full-star" fill="#e9ba26" transform="translate(21)" />
+    </symbol>
+
+    <symbol id="stars-2-5-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-2-0-star" />
+        <use xlink:href="#stars-half-star" transform="translate(42)" />
+    </symbol>
+
+    <symbol id="stars-3-0-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-2-0-star" />
+        <use xlink:href="#stars-full-star" fill="#e9ba26" transform="translate(42)" />
+    </symbol>
+
+    <symbol id="stars-3-5-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-3-0-star" />
+        <use xlink:href="#stars-half-star" transform="translate(63)" />
+    </symbol>
+
+    <symbol id="stars-4-0-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-3-0-star" />
+        <use xlink:href="#stars-full-star" fill="#e9ba26" transform="translate(63)" />
+    </symbol>
+
+    <symbol id="stars-4-5-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-4-0-star" />
+        <use xlink:href="#stars-half-star" transform="translate(84)" />
+    </symbol>
+
+    <symbol id="stars-5-0-star" viewBox="0 0 102 18">
+        <use xlink:href="#stars-all-star" fill="#e9ba26" />
+    </symbol>
+</svg>
+
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type":"SoftwareApplication",
+    "applicationCategory":"GameApplication",
+    "operatingSystem": "Windows, MacOS, Chrome OS, Linux, Android, iOS",
+    "url": "https://www.silvergames.com/en/ping-pong",
+    "name": "Ping Pong",
+    "image": "https://i1.silvergames.com/j/b/ping-pong.jpg",
+    "offers": {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "price": "0",
+        "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3.8",
+        "ratingCount": "20",
+        "bestRating": "5",
+        "worstRating": "0"
+    }
+}
+</script>
+
+
+        <br>
+        <div class="footer">
+            <br>
+            <div><label for="language_select">Language: </label><select id="language_select">
+                    <option value="en">English</option>
+                    <option value="de">Deutsch</option>
+                    <option value="fr">Français</option>
+                    <option value="es">Español</option>
+                    <option value="ru">Pусский</option>
+                </select>&nbsp;
+                www.silvergames.com | <a href="/en/site/scholarship">Scholarship</a> | <a href="/en/site/submit-a-game">Submit a game</a> | <a href="/en/site/1">About us</a> | <a href="/en/site/2">Terms of Use</a> | <a href="/en/site/3">Privacy Settings</a> | ID:8477 M Age:6 |c | <label for="q">Search</label></div>
+            <br>
+        </div>
+        <div id="gstat" data-id="8477"></div>
+
+
+
+        
+
+    </body>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1367050-4"></script>
+    <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-1367050-4');
+    </script>
+
+</html>
